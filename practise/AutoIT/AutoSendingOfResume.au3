@@ -1,0 +1,6 @@
+send("C:\Users\Hemanth\OneDrive\Desktop\Orgs\Test Yantra\Resumes\Hemanth_Resume_A")
+sleep(500)
+send("{TAB}")
+sleep(500)
+send("{TAB}")
+send("{ENTER}")

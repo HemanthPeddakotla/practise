@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="57879" started-at="2024-03-05T11:48:01 IST" finished-at="2024-03-05T11:48:59 IST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="47395" started-at="2024-03-05T11:48:01 IST" finished-at="2024-03-05T11:48:49 IST">
+      <class name="testNG2.Batch2_MarutiSuzuki">
+        <test-method status="PASS" signature="swift(java.lang.String)[pri:0, instance:testNG2.Batch2_MarutiSuzuki@7c29daf3]" name="swift" duration-ms="42617" started-at="2024-03-05T11:48:01 IST" finished-at="2024-03-05T11:48:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swift -->
+      </class> <!-- testNG2.Batch2_MarutiSuzuki -->
+      <class name="testNG2.Batch2_Toyota">
+        <test-method status="PASS" signature="innova(java.lang.String)[pri:0, instance:testNG2.Batch2_Toyota@7494e528]" name="innova" duration-ms="24922" started-at="2024-03-05T11:48:01 IST" finished-at="2024-03-05T11:48:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- innova -->
+      </class> <!-- testNG2.Batch2_Toyota -->
+      <class name="testNG2.Batch2_KIA">
+        <test-method status="PASS" signature="seltos(java.lang.String)[pri:0, instance:testNG2.Batch2_KIA@4bbfb90a]" name="seltos" duration-ms="42655" started-at="2024-03-05T11:48:01 IST" finished-at="2024-03-05T11:48:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seltos -->
+      </class> <!-- testNG2.Batch2_KIA -->
+      <class name="testNG2.Batch2_Hyundai">
+        <test-method status="PASS" signature="verna(java.lang.String)[pri:0, instance:testNG2.Batch2_Hyundai@68bbe345]" name="verna" duration-ms="47364" started-at="2024-03-05T11:48:01 IST" finished-at="2024-03-05T11:48:49 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verna -->
+      </class> <!-- testNG2.Batch2_Hyundai -->
+      <class name="testNG2.Batch2_TATA">
+        <test-method status="PASS" signature="safari(java.lang.String)[pri:0, instance:testNG2.Batch2_TATA@30b8a058]" name="safari" duration-ms="42431" started-at="2024-03-05T11:48:01 IST" finished-at="2024-03-05T11:48:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- safari -->
+      </class> <!-- testNG2.Batch2_TATA -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="57879" started-at="2024-03-05T11:48:01 IST" finished-at="2024-03-05T11:48:59 IST">
+      <class name="testNG2.Batch2_MarutiSuzuki">
+        <test-method status="PASS" signature="swift(java.lang.String)[pri:0, instance:testNG2.Batch2_MarutiSuzuki@4d41cee]" name="swift" duration-ms="44366" started-at="2024-03-05T11:48:01 IST" finished-at="2024-03-05T11:48:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swift -->
+      </class> <!-- testNG2.Batch2_MarutiSuzuki -->
+      <class name="testNG2.Batch2_Toyota">
+        <test-method status="PASS" signature="innova(java.lang.String)[pri:0, instance:testNG2.Batch2_Toyota@4b1c1ea0]" name="innova" duration-ms="43718" started-at="2024-03-05T11:48:01 IST" finished-at="2024-03-05T11:48:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- innova -->
+      </class> <!-- testNG2.Batch2_Toyota -->
+      <class name="testNG2.Batch2_KIA">
+        <test-method status="PASS" signature="seltos(java.lang.String)[pri:0, instance:testNG2.Batch2_KIA@17579e0f]" name="seltos" duration-ms="46038" started-at="2024-03-05T11:48:01 IST" finished-at="2024-03-05T11:48:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seltos -->
+      </class> <!-- testNG2.Batch2_KIA -->
+      <class name="testNG2.Batch2_Hyundai">
+        <test-method status="PASS" signature="verna(java.lang.String)[pri:0, instance:testNG2.Batch2_Hyundai@15d0c81b]" name="verna" duration-ms="57845" started-at="2024-03-05T11:48:01 IST" finished-at="2024-03-05T11:48:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verna -->
+      </class> <!-- testNG2.Batch2_Hyundai -->
+      <class name="testNG2.Batch2_TATA">
+        <test-method status="PASS" signature="safari(java.lang.String)[pri:0, instance:testNG2.Batch2_TATA@6acdbdf5]" name="safari" duration-ms="44904" started-at="2024-03-05T11:48:01 IST" finished-at="2024-03-05T11:48:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- safari -->
+      </class> <!-- testNG2.Batch2_TATA -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
