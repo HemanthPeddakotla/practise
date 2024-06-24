@@ -20,7 +20,7 @@ public class A11{
 			System.out.println(val+" is a Even number");
 		}	*/
 		
-		//Reverse a perticular word in a String
+		//Reverse a particular word in a String
 		String s="I am From Andhra Pradesh";
 		String output="";
 		String s2[]=s.split(" ");

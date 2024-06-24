@@ -8,8 +8,7 @@ public class A3 {
 		while(var>0) {
 			int rem=var%10;
 			revNum=revNum*10+rem;
-			var=var/10;
-			
+			var=var/10;	
 		}
 		
 	System.out.println(revNum);  

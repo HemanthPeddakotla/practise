@@ -16,7 +16,5 @@ public class OccuranceOfLettersIn_a_String {
 				System.out.println(ch+" : "+count);
 			}
 		}
-
 	}
-
 }
